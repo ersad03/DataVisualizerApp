@@ -1,6 +1,6 @@
 [server]
 maxUploadSize = 10240
-port = 9999
+#port = 9999
 
 [theme]
 base = "dark"
