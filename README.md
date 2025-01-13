@@ -26,7 +26,7 @@ The application guides users in selecting data for axes, ensuring informed decis
 - Upload CSV files up to 10GB, with automatic encoding detection.
 - Edit data directly within the app.
 - Select a percentage of rows to display.
-- Dynamic filtering with column/feature deselection.
+- Dynamic filtering with categorical column/feature deselection.
 
 ### Charting and Visualization
 - Supports 14 chart types:
